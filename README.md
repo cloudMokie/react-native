@@ -14,7 +14,7 @@ This is based on the react-native implementation of the cnblogs.com's mobile cli
 ## 构建android项目包，生成开发apk
 #### 命令行：react-native run-android
 #####常见问题:
-![home page ](https://github.com/18871401911/learn_img/tree/master/react-native/img/run_android_error.png)
+https://github.com/18871401911/learn_img/tree/master/react-native/img/run_android_error.png
 遇到此图这样的问题，不要慌，其实这并不是构建失败，只是没有找到android模拟器，你只要启动你安装的模拟器就行了，推荐用genymotion模拟器http://www.genymotion.net/
 ####安装好启动模拟器，你重新运行一遍，得到如图所示:
 ![home page ](https://github.com/18871401911/learn_img/tree/master/react-native/img/run_android_success.png)

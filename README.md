@@ -56,12 +56,12 @@ This is based on the react-native implementation of the cnblogs.com's mobile cli
 ![点击查看](https://github.com/18871401911/learn_img/tree/master/react-native/img/android_key.png")
 
 ### 如果你还是不懂，那只能再补一刀，请看下图：
-![image](https://github.com/18871401911/learn_img/tree/master/react-native/img/android_now_key.png)
+![点击查看](https://github.com/18871401911/learn_img/tree/master/react-native/img/android_now_key.png)
 
 ### 如果还有问题，那只能把你的问题发送到我的邮箱，温馨提示：除了在送祖传染色体时，其他时间都可以随便骚扰。
 
 当然，以上操作后，会生成一个数字签名文件，如下图所示：
-<img src="https://github.com/18871401911/learn_img/tree/master/react-native/img/android_key_file.png">
+![点击查看](https://github.com/18871401911/learn_img/tree/master/react-native/img/android_key_file.png)
 
 把数字签名文件my-release-key.keystore放到android/app目录下,接下来就开始搞事情了
 
@@ -71,7 +71,7 @@ This is based on the react-native implementation of the cnblogs.com's mobile cli
 * MYAPP_RELEASE_STORE_PASSWORD=*** (数字签名的设置的密码)
 * MYAPP_RELEASE_KEY_PASSWORD=*** (数字签名的设置的密码)
 还有所不明，请参考下图：
-<img src="https://github.com/18871401911/learn_img/tree/master/react-native/img/android_gradle_set.png">
+![点击查看](https://github.com/18871401911/learn_img/tree/master/react-native/img/android_gradle_set.png)
 
 ### 配置好上述文件后，我们再编辑android/app下的build.gradle文件（注意不要弄错了，android目录下也有一个这样的文件）
 添加配置如下
@@ -85,7 +85,7 @@ This is based on the react-native implementation of the cnblogs.com's mobile cli
 }
 * signingConfig signingConfigs.release
 不知代码放何处，请看下图：
-<img src="https://github.com/18871401911/learn_img/tree/master/react-native/img/android_build_gradle.png">
+![点击查看](https://github.com/18871401911/learn_img/tree/master/react-native/img/android_build_gradle.png)
 
 ## 以上操作完后，差不多就是传说中的九九八十一难的最后一难，打开命令行,切到android目录下，然后发功：
 ### 命令行输入：./gradlew assembleRelease

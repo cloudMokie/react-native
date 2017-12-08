@@ -1,4 +1,4 @@
-## 本文主要为那些react-native新手写的项目教程搭建，希望帮助更多的新手入门和跳出不必跳入的深坑，请大家谅解。代码仅供参考。
+## 本文主要为那些react-native新手写的项目教程搭建，希望帮助更多的新手入门和跳出不必跳入的深坑代。
 
 ## react-native项目 简介
 
@@ -56,7 +56,7 @@ This is based on the react-native implementation of the cnblogs.com's mobile cli
 ![点击查看](https://github.com/18871401911/learn_img/tree/master/react-native/img/android_key.png")
 
 ### 如果你还是不懂，那只能再补一刀，请看下图：
-(https://github.com/18871401911/learn_img/tree/master/react-native/img/android_now_key.png)
+![image](https://github.com/18871401911/learn_img/tree/master/react-native/img/android_now_key.png)
 
 ### 如果还有问题，那只能把你的问题发送到我的邮箱，温馨提示：除了在送祖传染色体时，其他时间都可以随便骚扰。
 

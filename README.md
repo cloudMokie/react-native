@@ -53,10 +53,10 @@ This is based on the react-native implementation of the cnblogs.com's mobile cli
 * 其他都不需要研究，了解这几个是干啥的就行了
 
 ####此时你会进入一个一脸懵逼的命令行,不要方，我们有神图，请看下图:
-<img src="https://github.com/18871401911/learn_img/tree/master/react-native/img/android_key.png">
+![点击查看](https://github.com/18871401911/learn_img/tree/master/react-native/img/android_key.png")
 
 ###如果你还是不懂，那只能再补一刀，请看下图：
-<img src="https://github.com/18871401911/learn_img/tree/master/react-native/img/android_now_key.png">
+https://github.com/18871401911/learn_img/tree/master/react-native/img/android_now_key.png
 
 ###如果还有问题，那只能把你的问题发送到我的邮箱，温馨提示：除了在送祖传染色体时，其他时间都可以随便骚扰。
 

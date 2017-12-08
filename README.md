@@ -18,9 +18,10 @@ This is based on the react-native implementation of the cnblogs.com's mobile cli
 不在需要百度，
 不在为下的版本不对导致一堆坑而烦恼，
 只需要勾勾你的小拇指，
-点上一个星，带你上直通车，
+点上一颗星，带你上直通车，
 啥配置问题，各种报错，都是浮云，
 车牌号：164527929@qq.com，
+上车我帮你，
 不用在烦恼，不用再犹豫，快上直通车。
 
 
